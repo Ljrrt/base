@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "913450293567",
+    "project_id": "ljrrt-ljrrt",
+    "storage_bucket": "ljrrt-ljrrt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913450293567:android:c6a37b028de8258cc3db8a",
+        "android_client_info": {
+          "package_name": "com.ljrrt.ljrrt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDrVn4kwOcgkSOvJ7L43DrsiqIrIrqAyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
