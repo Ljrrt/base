@@ -24,5 +24,6 @@
 
 - Diferencias entre una función y un method
 - Diferencias entre final, static y const. Cuando usar cada una
+- Private constructors para qué son. (const ClassName._();)
 - 
 

@@ -78,7 +78,7 @@ class MainView extends ConsumerWidget {
   const MainView({super.key});
 
   @override
-  Widget build(BuildContext contextm, WidgetRef ref) {
+  Widget build(BuildContext context, WidgetRef ref) {
     return Center(
         child: OutlinedButton(
       onPressed: ref.read(authStateProvider.notifier).logOut,
