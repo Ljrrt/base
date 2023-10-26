@@ -1,16 +1,28 @@
-# ljrrt
+# Dudas
 
-A new Flutter project.
+-----------------
 
-## Getting Started
+## Android Studio
 
-This project is a starting point for a Flutter application.
+- Cómo seleccionar y cambiar una variable en todos los sitios del fichero
+- Cómo comentar un bloque entero
+-
 
-A few resources to get you started if this is your first Flutter project:
+## Git && Github
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- diferencias entre git y github
+- dónde se crea el repositorio local de git?
+- cómo crear una rama en github?
+- para que sirven los tags?
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Architecture
+
+- Capas y para que sirve cada una
+- que son los models
+
+## Dart
+
+- Diferencias entre una función y un method
+- Diferencias entre final, static y const. Cuando usar cada una
+- 
+

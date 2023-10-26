@@ -5,10 +5,13 @@ import 'package:ljrrt/state/auth/models/auth_result.dart';
 import 'package:ljrrt/state/post/typedefs/user_id.dart';
 
 class Authenticator {
-  // create getters from firebase auth
-  UserId? get userID => FirebaseAuth.instance.currentUser?.uid;
+  //create const constructor
+  const Authenticator();
 
-  bool get isAlreadyLoggedIn => userID != null;
+  // create getters from firebase auth
+  UserId? get userId => FirebaseAuth.instance.currentUser?.uid;
+
+  bool get isAlreadyLoggedIn => userId != null;
 
   String get displayName =>
       FirebaseAuth.instance.currentUser?.displayName ?? '';
